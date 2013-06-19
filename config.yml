@@ -1,0 +1,24 @@
+# PL: Konfiguracja pluginu TheMolkaTeams v1.0.0 by TheMolkaPL
+# Plik ten nalezy otworzyc porzadnym notatnikiem (np. Notepad++)!
+# KAZDY TABULATOR WYNIKAJACY Z ENTER NALEZY ZAMIENIC NA SPACJE!
+# W tym pliku konfiguracyjnym nie mozna uzywac kolorow typu "&x"!
+
+curse:
+    words:
+        - bitch
+        - dick
+        - fuck
+    # EN: Blocked words.
+    # PL: Zablokowane slowa.
+    messages:
+        to-admin: 'Player {PLAYER} blocked word use.'
+        #to-admin: 'Gracz {PLAYER} uzyl zablokowanego slowa.'
+        # EN: Message to admin.
+        # PL: Wiadomosc do admina.
+        to-sender: 'Message was not sent because you used the word blocked!'
+        #to-sender: 'Wiadomosc nie zostala wyslana poniewaz uzyles zablokowanego slowa!'
+        # EN: Message to sender.
+        # PL: Wiaomosc do wysylajacego.
+
+
+# <>----------[ End of config.yml file! ^.^ ]----------<>

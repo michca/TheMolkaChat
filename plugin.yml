@@ -1,0 +1,7 @@
+name: TheMolkaChat
+description: Chat by TheMolkaPL!
+version: beta 1.0
+website: http://dev.bukkit.org/server-plugins/themolkachat/
+author: TheMolkaPL
+
+main: pl.TheMolka.TheMolkaChat.TheMolkaChat
